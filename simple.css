@@ -1,0 +1,64 @@
+
+
+body {
+  background-color: white;
+  
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 35px;
+
+}
+h2 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bolder;
+  
+  
+  
+}
+
+h1 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bolder;
+  padding-left: 60px;
+ 
+  
+  
+}
+
+h3 {
+  color: gray;
+  font-size: 15px;
+  font-weight: bolder;
+  padding-right: 60px;
+}
+
+
+
+div.pic {
+  display: inline-block;
+  text-align: center;
+width: 700px;
+}
+
+img {
+  padding-top: 120px;
+  width: 500px;
+}
+
+
+.button {
+  border: none;
+  color: gray;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
